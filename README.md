@@ -50,31 +50,6 @@ This script will use the trained LSTM model to generate new music based on a see
 
 You can add your seed music data in the `melodygenerator.py` script. The seed music is used as the initial input to the LSTM model for generating new music.
 
-```python
-# Example of adding seed music in melodygenerator.py
-
-seed_music = [
-    # Add your seed music notes here
-]
-
-generated_music = generate_music(seed_music)
-```
-
-## Examples
-
-### Seed Music
-
-```markdown
-[Seed Music](./audio/)
-
-```
-
-### Generated Music
-
-```markdown
-
-```
-
 ## Contributing
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request. We welcome contributions in the form of bug fixes, feature additions, and improvements to existing code.
