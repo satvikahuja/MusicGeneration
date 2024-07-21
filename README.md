@@ -65,6 +65,7 @@ generated_music = generate_music(seed_music)
 ### Seed Music
 
 ```markdown
+[Seed Music](./audio/)
 
 ```
 
