@@ -46,7 +46,7 @@ python melodygenerator.py
 ```
 This script will use the trained LSTM model to generate new music based on a seed sequence.
 
-Melody
+Generated Melody after feeding seed
 <img width="968" alt="Screenshot 2024-07-21 at 5 49 29 PM" src="https://github.com/user-attachments/assets/92f0438f-d98c-47c5-928b-fadc9e507faa">
  
 
