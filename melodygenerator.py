@@ -8,7 +8,7 @@ class MelodyGenerator:
 
     def __init__(self, model_path="model.h5"):
 
-        self.model_path = model_path
+        self.model_path =model_path
         self.model = tf.keras.models.load_model(model_path)
 
         with open(MAPPING_PATH,"r") as fp:
