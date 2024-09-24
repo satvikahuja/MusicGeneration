@@ -18,7 +18,7 @@ class MelodyGenerator:
 
     def generate_melody(self, seed, num_steps, max_sequence_length, temperature):
 
-        # create seed with start symbols
+        #create seed with start symbols
         seed = seed.split()
         melody = seed
         seed = self._start_symbols + seed
